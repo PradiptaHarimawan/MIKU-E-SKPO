@@ -9,5 +9,5 @@ MIKU-E-SKPO ialah
 - Javier Fransiscus
 - Vincentia Graciella Octaviana
 
-Untuk melihat secara langsung hasilnya
-https://pradiptaharimawan.github.io/MIKU-E-SKPO/Home.html
+Untuk melihat secara langsung hasilnya click link dibawah
+## [MIKU-E-SKPO](https://pradiptaharimawan.github.io/MIKU-E-SKPO/Home.html)
