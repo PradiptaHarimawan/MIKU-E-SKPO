@@ -8,3 +8,6 @@ MIKU-E-SKPO ialah
 - Pradipta Budi Harimawan
 - Javier Fransiscus
 - Vincentia Graciella Octaviana
+
+Untuk melihat secara langsung hasilnya
+https://pradiptaharimawan.github.io/MIKU-E-SKPO/Home.html
